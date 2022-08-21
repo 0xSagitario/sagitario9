@@ -8,6 +8,4 @@
 sagitario9/sagitario9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi everyone, this will be a very short intro.
-I'm @sagitario9. I have zero coding language skills:), but interested in collaborating and contributing to projects involving human languages.
-I may be reached on Discord #sagitario4992. Looking forward to collaborating on something awesome!
+--->
